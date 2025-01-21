@@ -3,7 +3,7 @@ Document Title: "Day 3 - API Integration Report - [Foodtuck]"
 REPORT :
 Day 3 - API Integration and Data Migration
 Prepared by: Maria Khan
-Date: [18-January-2024]
+Date: [18-January-2025]
 ________________________________________
 1. API Integration Process
 1.1. Overview of API Integration
@@ -125,61 +125,18 @@ The API integration and data migration process was successfully completed with t
 •	Enhanced schema to accommodate new fields and extended functionality.
 •	Successful migration of old data with minimal downtime and improved structure.
 
-
-
-
-
-
 Screenshots :
 Foods :
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Chefs:
- 
- 
+Chefs: 
 Fetching Data (Foods) :
- 
-
-
 Fetching Data (Chefs) :
- 
-
-
- Data Successfully Displayed in Frontend:
- 
-  
-
-
-
-Populated Sanity CMS fields:
-
- 
- 
-
-
-
+Data Successfully Displayed in Frontend:
+ Populated Sanity CMS fields:
 Code snippets for API integration and migration scripts:
-
- 
- 
-
 Self-Validation Checklist:
 API Understanding	Schema Validation:	Data Migration:	API Integration in Next.js	Submission Preparation
 ✔	✔	✔	✔	✔
 
 Prepared by: Maria Khan
-Date: [18-January-2024]
+Date: [18-January-2025]
 
